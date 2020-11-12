@@ -31,3 +31,4 @@ if sent:
             lang = i["name"].title()
 
     st.text("{0} with {1} confidence.".format(lang,conf))
+
